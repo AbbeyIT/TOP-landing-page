@@ -7,7 +7,7 @@ Build by: [Abbey Santos](https://github.com/AbbeyIT)
 
 ## Demo
 
-https://abbeyit.github.io/TOP-landing-page/
+https://abbeyit.github.io/landing-page/
 
 
 ## Documention: 
